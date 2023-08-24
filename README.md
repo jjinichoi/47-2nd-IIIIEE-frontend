@@ -80,12 +80,12 @@
 
 ## 📑 참고자료
 
-시연 영상<br />
+### 시연 영상<br />
 [![Video Label](http://img.youtube.com/vi/rx7zdgdbR0s/0.jpg)](https://youtu.be/rx7zdgdbR0s)
 
-Trello - Ticket management</br>
+### Trello - Ticket management</br>
 https://trello.com/b/HrqeM69z/iiiiee
 
-ERD</br>
+### ERD</br>
 https://drawsql.app/teams/lena-4/diagrams/-3
 
