@@ -1,4 +1,5 @@
 # Project IIIIEE
+<p align="center"><img src="https://github.com/wecode-bootcamp-korea/47-2nd-IIIIEE-backend/assets/131442242/dd857a7d-8799-4377-b5ce-7364d624f668" width="500"/></p>
 
 #### \*[AirBnB](https://www.airbnb.com/) 웹사이트를 모델링한 프로젝트입니다.
 
