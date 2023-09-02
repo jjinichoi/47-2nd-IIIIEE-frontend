@@ -80,6 +80,9 @@
 
 ## 📑 참고자료
 
+## 회고록
+https://velog.io/@jjinichoi/%EB%A7%9B%EB%82%98%EB%8A%94-%EB%A7%9B%EB%82%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
+
 ### 시연 영상<br />
 [![Video Label](http://img.youtube.com/vi/rx7zdgdbR0s/0.jpg)](https://youtu.be/rx7zdgdbR0s)
 
